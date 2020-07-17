@@ -66,10 +66,6 @@
   -jfx-unchecked-color: -bad;
 }
 
-.checked-icon {
-  -fx-text-fill: -fx-accent;
-}
-
 /***************** Dimmer *****************/
 
 /* Dims the background of a modal popup */
